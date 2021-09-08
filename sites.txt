@@ -200,3 +200,14 @@ businessinsider.com
 opera.com
 godaddy.com
 ok.ru
+yle.fi
+translate.google.com
+www.geeksforgeeks.org
+geeksforgeeks.org
+raw.githubusercontent.com
+docs.python.org
+python.org
+malwarebytes.com
+malwarebytes.org
+www.virustotal.com
+virustotal.com
