@@ -211,3 +211,9 @@ malwarebytes.com
 malwarebytes.org
 www.virustotal.com
 virustotal.com
+118.dk
+123mc.dk
+3point.dk
+aarhusupdate.dk
+altomdata.dk
+www.altomdata.dk
