@@ -218,3 +218,9 @@ aarhusupdate.dk
 altomdata.dk
 www.altomdata.dk
 wetv.vip
+nhs.uk
+www.nhs.uk
+cdc.gov
+www.geogebra.org
+geogebra.org
+iam-py-test.github.io
