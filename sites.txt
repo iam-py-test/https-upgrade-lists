@@ -224,3 +224,4 @@ cdc.gov
 www.geogebra.org
 geogebra.org
 iam-py-test.github.io
+cnn.co.jp
