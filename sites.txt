@@ -43,7 +43,6 @@ ebay.com
 amazon.in
 twitter.com
 huanqiu.com
-apple.com
 yandex.ru
 sina.com.cn
 live.com
@@ -114,10 +113,6 @@ rottentomatoes.com
 ca.gov
 cnet.com
 roblox.com
-
-
-
-
 baidu.com
 qq.com
 sohu.com
@@ -128,7 +123,6 @@ doubleclick.net
 vimeo.com
 wordpress.com
 weibo.com
-
 goo.gl
 google-analytics.com
 bit.ly
@@ -225,3 +219,17 @@ www.geogebra.org
 geogebra.org
 iam-py-test.github.io
 cnn.co.jp
+gnu.org
+www.gnu.org
+protonmail.com
+www.phishtank.com
+phishtank.com
+abuse.ch
+urlhaus.abuse.ch
+podcasts.apple.com
+cia.gov
+duckduckgogg42xjoc72x3sjasowoarfbgcmvfimaftt6twagswzczad.onion
+onedrive.live.com
+pypi.org
+w3schools.com
+www.w3schools.com
