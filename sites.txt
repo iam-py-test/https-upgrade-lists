@@ -235,3 +235,15 @@ w3schools.com
 www.w3schools.com
 handprint.com
 webptopng.com
+nginx.org
+www.gnu.org
+gnu.org
+baidu.com
+www.baidu.com
+www.w3.org
+hugedomains.com
+www.hugedomains.com
+washington.edu
+www.washington.edu
+deviantart.com
+allaboutcookies.org
